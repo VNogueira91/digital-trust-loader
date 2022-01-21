@@ -1,0 +1,23 @@
+{
+  "name": "digital-trust-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VNogueira91/digital-trust-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VNogueira91/digital-trust-loader/issues"
+  },
+  "homepage": "https://github.com/VNogueira91/digital-trust-loader#readme",
+  "devDependencies": {
+    "octopus": "git+https://github.com/PrivateSky/octopus.git"
+  },
+  "dependencies": {}
+}

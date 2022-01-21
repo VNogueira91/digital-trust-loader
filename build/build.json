@@ -1,0 +1,8 @@
+{
+  "toolkit": {
+    "deps": "../../../digital-trust-loader/src:trust-loader",
+    "autoLoad":  true,
+    "bundleExternal": false,
+    "exclude": "fs"
+  }
+}
