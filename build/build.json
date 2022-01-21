@@ -1,6 +1,6 @@
 {
   "toolkit": {
-    "deps": "../../../pdm-dsu-toolkit:toolkit",
+    "deps": "../../../digital-trust-loader:toolkit",
     "autoLoad":  true,
     "bundleExternal": false,
     "exclude": "fs"
