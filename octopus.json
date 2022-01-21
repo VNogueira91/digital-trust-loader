@@ -1,6 +1,9 @@
 {
     "workDir": ".",
     "dependencies": [
+        
+    ],
+    "prebuild": [
         {
             "name": "Bundles",
             "src": "",

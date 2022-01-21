@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    
+    "prebuild": "node ./node_modules/octopus/scripts/run prebuild"
   },
   "repository": {
     "type": "git",
