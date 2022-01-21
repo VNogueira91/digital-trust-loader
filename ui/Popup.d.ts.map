@@ -1,0 +1,1 @@
+{"version":3,"file":"Popup.d.ts","sourceRoot":"","sources":["../../src/ui/Popup.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,KAAK;IAClB,GAAG,CAAC,OAAO,EAAE,MAAM,GAAG,OAAO,CAAC,OAAO,CAAC,CAAC;CAC1C;AAED,qBAAa,YAAa,YAAW,KAAK;IACtC,GAAG,CAAC,OAAO,EAAE,MAAM;CAGtB"}
