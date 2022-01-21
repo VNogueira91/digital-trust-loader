@@ -1,0 +1,16 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.DefaultPopUp = void 0;
+
+class DefaultPopUp {
+  ask(message) {
+    return Promise.resolve(confirm(message));
+  }
+
+}
+
+exports.DefaultPopUp = DefaultPopUp;
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInVpL1BvcHVwLmpzIl0sIm5hbWVzIjpbIkRlZmF1bHRQb3BVcCIsImFzayIsIm1lc3NhZ2UiLCJQcm9taXNlIiwicmVzb2x2ZSIsImNvbmZpcm0iXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFBTyxNQUFNQSxZQUFOLENBQW1CO0FBQ3RCQyxFQUFBQSxHQUFHLENBQUNDLE9BQUQsRUFBVTtBQUNULFdBQU9DLE9BQU8sQ0FBQ0MsT0FBUixDQUFnQkMsT0FBTyxDQUFDSCxPQUFELENBQXZCLENBQVA7QUFDSDs7QUFIcUIiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY2xhc3MgRGVmYXVsdFBvcFVwIHtcbiAgICBhc2sobWVzc2FnZSkge1xuICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGNvbmZpcm0obWVzc2FnZSkpO1xuICAgIH1cbn0iXSwiZmlsZSI6InVpL1BvcHVwLmpzIn0=
