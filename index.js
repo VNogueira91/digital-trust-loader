@@ -28,7 +28,7 @@
  * Is called by the apihub via the server.json
  * @memberOf Server
  */
- function Init(server){
+function Init(server){
 	const path = require('path');
 	const cmdsDir = path.join(__dirname, "commands");
 	require('fs').readdir(cmdsDir, (err, files) => {
